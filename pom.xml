@@ -25,7 +25,6 @@
             <groupId>com.example</groupId>
             <artifactId>Utilidades</artifactId>
             <version>0.0.1-SNAPSHOT</version>
-            <scope>compile</scope>
         </dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
